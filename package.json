@@ -1,0 +1,23 @@
+{
+  "name": "calculator_lab",
+  "version": "1.0.0",
+  "description": "`git clone` this repo to start the calculator homework.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colt/calculator_lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colt/calculator_lab/issues"
+  },
+  "homepage": "https://github.com/Colt/calculator_lab#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
